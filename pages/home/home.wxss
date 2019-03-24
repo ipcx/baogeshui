@@ -1,0 +1,17 @@
+/* pages/home/home.wxss */
+.bg-new{
+  background-color:white;
+  color: #43c0ff;
+}
+.bg-barnew{
+  background-color: #43c0ff;
+  color:white;
+}
+.text-new{
+  color:white; 
+}
+.cu-tabbar-height{
+  position: absolute;
+  width:100%;
+  bottom:0rpx;
+}

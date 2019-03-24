@@ -1,0 +1,29 @@
+  <image src='/images/componentBg.png' mode='widthFix' class='response'></image>
+
+<view class='cu-tabbar-height'>
+  <view class="cu-bar tabbar margin-bottom-xl bg-barnew">
+    <!-- <view class="action text-select">
+      <view class='icon-homefill'></view> 找财税师
+    </view> -->
+    <view class="action text-noselect">
+      <view class='icon-message'></view> 消息
+    </view>
+    <view class="action text-noselect add-action">
+      <button class='cu-btn icon-group bg-new shadow'></button>
+      报个税
+    </view>
+    <!-- <view class="action text-noselect">
+      <view class='icon-message'>
+        <view class='cu-tag badge'>99</view>
+      </view>
+      消息
+    </view> -->
+    <view class="action text-noselect">
+      <view class='icon-my'>
+        <view class='cu-tag badge'></view>
+      </view>
+      我
+    </view>
+  </view>
+</view>
+

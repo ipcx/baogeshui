@@ -1,0 +1,11 @@
+<view class='UCenter-bg'>
+<view class="BCenter-bg">
+  <view class="logotitle">
+
+  </view>
+</view>
+<view class='padding-xl pos'>
+  <button class='cu-btn  bg-newbutton shadow lg block' open-type="getUserInfo" bindgetuserinfo="onGetUserInfo">我要找人报个税</button>
+  <button class='cu-btn  bg-newbutton shadow lg block' open-type="getUserInfo" bindgetuserinfo="onGetUserInfo">我要帮人报个税</button>
+</view>
+</view>
